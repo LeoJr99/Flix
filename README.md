@@ -20,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://media.giphy.com/media/1jyYOaK5ImPHEWKUj2/giphy.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Getting the key for the youtube trailer was a lot more difficult than i expected and I had issues with using the UITapGesture on an image. I got stuck with using a segue with the UITapGesture and took me a while to figure out. 
 
 ---
 
@@ -45,4 +45,3 @@ Describe any challenges encountered while building the app.
 Describe any challenges encountered while building the app.
 
 I had some challenges in connecting the view to the outlets in the code. It took me a bit to figure out that I had not changed the class of the view controller to what i had changed it to. 
-Getting the key for the youtube trailer was a lot more difficult than i expected and I had issues with using the UITapGesture on an image
