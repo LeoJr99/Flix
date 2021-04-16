@@ -11,13 +11,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
-- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
-- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+- [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [x] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+
+<img src="https://media.giphy.com/media/obDIX9eR9ezu1g3dOu/giphy.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
@@ -45,3 +45,4 @@ Describe any challenges encountered while building the app.
 Describe any challenges encountered while building the app.
 
 I had some challenges in connecting the view to the outlets in the code. It took me a bit to figure out that I had not changed the class of the view controller to what i had changed it to. 
+Getting the key for the youtube trailer was a lot more difficult than i expected and I had issues with using the UITapGesture on an image
